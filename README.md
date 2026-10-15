@@ -1,5 +1,5 @@
 # Atcoder
-Guran08(https://atcoder.jp/users/Guran08)のAtcoder Contest用のライブラリ置き場です。
+Guran08(https://atcoder.jp/users/Guran08) のAtcoder Contest用のライブラリ置き場です。
 
 ## ファイル
 
